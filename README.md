@@ -5,7 +5,7 @@ README
 
 December 23, 2024
 
-Matrix is a screen generato, coded in AppleSoft for use in emulators like AppleWin or on original hardware, in the style of the screens from the Matrix movies.
+Matrix is a screen generator, coded in AppleSoft for use in emulators like AppleWin or on original hardware, in the style of the screens from the Matrix movies.
 
 I scoured Google for something like this, and nothing turned up so decided to make Matrix. Then, after long hours of work, I looked again, and this turned up: https://github.com/neilk/apple-ii-matrix/
 
